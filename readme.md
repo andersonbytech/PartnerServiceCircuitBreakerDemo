@@ -27,7 +27,7 @@ Em um ambiente de microsserviços, os serviços frequentemente dependem uns dos ou
 
 ## Tech Stack
 
-- **.NET 6**: A versão mais recente do .NET, oferecendo melhorias de desempenho e novos recursos.
+- **.NET 6**: LTS em 27/05/2024
 - **Polly**: Uma robusta biblioteca .NET para resiliência e tratamento de falhas transitórias, permitindo políticas sofisticadas de retry e Circuit Breaker.
 
 ## Como Executar o Projeto

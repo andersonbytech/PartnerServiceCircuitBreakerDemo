@@ -43,3 +43,6 @@ Em um ambiente de microsserviços, os serviços frequentemente dependem uns dos ou
    ```sh
    git clone https://github.com/seu-usuario/PartnerServiceCircuitBreakerDemo.git
    cd PartnerServiceCircuitBreakerDemo
+2. **Abra a solução no Visual Studio:**
+	```sh
+	code .

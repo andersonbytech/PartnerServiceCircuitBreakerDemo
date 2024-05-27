@@ -43,6 +43,9 @@ Em um ambiente de microsserviços, os serviços frequentemente dependem uns dos ou
    ```sh
    git clone https://github.com/seu-usuario/PartnerServiceCircuitBreakerDemo.git
    cd PartnerServiceCircuitBreakerDemo
-2. **Abra a solução no Visual Studio:**
-	```sh
-	code .
+
+Contribuição
+Sinta-se à vontade para contribuir com este projeto. Faça um fork do repositório, crie um branch para suas alterações e abra um pull request.
+
+Licença
+Este projeto é licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
